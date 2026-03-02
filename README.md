@@ -11,3 +11,5 @@ Prompt Engineering for LLMs —— The Art and Science of Building Large Languag
 [第二章：理解大语言模型](./Chapter%202.%20Understanding%20LLMs.md)
 
 [第三章：迈向聊天模式](./Chapter%203.%20Moving%20to%20Chat.md)
+
+[第四章：设计 LLM 应用](./Chapter%204.%20Designing%20LLM%20Applications.md)
